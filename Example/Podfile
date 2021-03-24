@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'JKMsg_Example' do
+  pod 'JKMsg', :path => '../'
+
+  target 'JKMsg_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
