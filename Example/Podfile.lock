@@ -1,0 +1,16 @@
+PODS:
+  - JKMsg (0.1.0)
+
+DEPENDENCIES:
+  - JKMsg (from `../`)
+
+EXTERNAL SOURCES:
+  JKMsg:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JKMsg: 20bf390eff599387d8b8060b48dffe0ddf831635
+
+PODFILE CHECKSUM: 626cfea8b2e8ccc6fa0d3d81455a71818d6608d0
+
+COCOAPODS: 1.7.1

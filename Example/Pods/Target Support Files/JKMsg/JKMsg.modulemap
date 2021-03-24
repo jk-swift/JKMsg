@@ -1,0 +1,6 @@
+framework module JKMsg {
+  umbrella header "JKMsg-umbrella.h"
+
+  export *
+  module * { export * }
+}
